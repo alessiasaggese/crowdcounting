@@ -53,3 +53,5 @@ Note that you must update the path of image or video. To evaluate the model, run
 ```bash
 CUDA_VISIBLE_DEVICES=0 python run_test.py --mode ‘insert image or video’ 
 ```
+
+Download the code at the following link: [Code on a shared drive folder](https://drive.google.com/drive/folders/1rLevV6wcjIxbP78n_V-lKSbqgbHBTqLw?usp=share_link))
