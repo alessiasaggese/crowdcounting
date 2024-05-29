@@ -20,7 +20,7 @@ If you use it, please cite it:
 
 An overview of the proposed CL based framework is depicted in the following figure: for each sample in the dataset, a scoring function is used so as to assign a complexity indicator to each image of the dataset. As the training evolves, epochs by epochs, a pacing function determines the composition of the training at each step.
 
-![alt text](https://github.com/MiviaLab/.../CL.png)
+![alt text](./CL.png)
 
 The baseline we used in our approach is P2P network. [Paper Link](https://openaccess.thecvf.com/content/ICCV2021/papers/Song_Rethinking_Counting_and_Localization_in_Crowds_A_Purely_Point-Based_Framework_ICCV_2021_paper.pdf)
 
