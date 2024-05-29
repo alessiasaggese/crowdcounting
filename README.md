@@ -27,7 +27,7 @@ The baseline we used in our approach is P2P network. [Paper Link](https://openac
 ## An example 
 
 
-![alt text](https://github.com/MiviaLab/.../example.png)
+![alt text](./example.png)
 
 First Row [(a) Ground Truth: 88 persons; (b) P2P output: 98; (c) CLN D output: 94] 
 Second Row [(d) Ground Truth: 130 persons; (e) P2P output: 215; (f) CLN D output: 137] 
